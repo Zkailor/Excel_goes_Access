@@ -1,0 +1,48 @@
+﻿<Page x:Class="Excel_goes_Access.Datensatz_hinzufügen"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Excel_goes_Access"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="650"
+      Title="Datensatz hinzufügen">
+
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" VerticalAlignment="Center" FontFamily="Calibri" FontSize="16">Schlagwort:</Label>
+        <Label Grid.Row="1" VerticalAlignment="Center" FontFamily="Calibri" FontSize="16">Name:</Label>
+        <Label Grid.Row="2" VerticalAlignment="Center" FontFamily="Calibri" FontSize="16">Vorname:</Label>
+        <Label Grid.Row="3" VerticalAlignment="Center" FontFamily="Calibri" FontSize="16">Kurzwahl:</Label>
+        <Label Grid.Row="4" VerticalAlignment="Center" FontFamily="Calibri" FontSize="16">Telefonnummer:</Label>
+        <Label Grid.Row="5" VerticalAlignment="Center" FontFamily="Calibri" FontSize="16">E-Mail:</Label>
+        <Label Grid.Row="6" VerticalAlignment="Center" FontFamily="Calibri" FontSize="16">Sonstiges:</Label>
+        <Label Grid.Row="7" VerticalAlignment="Center" FontFamily="Calibri" FontSize="16">Mobilnummern:</Label>
+
+        <TextBox x:Name="tb1" Grid.Row="0" Grid.Column="1" Margin="2"></TextBox>
+        <TextBox x:Name="tb2" Grid.Row="1" Grid.Column="1" Margin="2"></TextBox>
+        <TextBox x:Name="tb3" Grid.Row="2" Grid.Column="1" Margin="2"></TextBox>
+        <TextBox x:Name="tb4" Grid.Row="3" Grid.Column="1" Margin="2"></TextBox>
+        <TextBox x:Name="tb5" Grid.Row="4" Grid.Column="1" Margin="2"></TextBox>
+        <TextBox x:Name="tb6" Grid.Row="5" Grid.Column="1" Margin="2"></TextBox>
+        <TextBox x:Name="tb7" Grid.Row="6" Grid.Column="1" Margin="2"></TextBox>
+        <TextBox x:Name="tb8" Grid.Row="7" Grid.Column="1" Margin="2"></TextBox>
+
+        <Button Grid.Row="8" Grid.Column="1" Margin="300, 5, 5, 5" FontFamily="Calibri" FontSize="20" Click="Button_Click">Übermitteln</Button>
+    </Grid>
+</Page>

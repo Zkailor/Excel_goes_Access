@@ -1,0 +1,97 @@
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\Excel goes Access.exe
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\Excel goes Access.deps.json
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\Excel goes Access.runtimeconfig.json
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\Excel goes Access.runtimeconfig.dev.json
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\Excel goes Access.dll
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\Excel goes Access.pdb
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.csprojAssemblyReference.cache
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access_MarkupCompile.cache
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access_MarkupCompile.lref
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.g.resources
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.csproj.CoreCompileInputs.cache
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.AssemblyInfoInputs.cache
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.AssemblyInfo.cs
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.dll
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.pdb
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.genruntimeconfig.cache
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Datensatz_hinzufügen.g.cs
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Datensatz_suchen.g.cs
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Datensatz_hinzufügen.baml
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Datensatz_suchen.baml
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Datensatz_löschen.g.cs
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Datensatz_ändern.g.cs
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Datensatz_löschen.baml
+E:\Dokumente\HomeO\Excel goes Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Datensatz_ändern.baml
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.csprojAssemblyReference.cache
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Datensatz_hinzufügen.g.cs
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Datensatz_löschen.g.cs
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Datensatz_suchen.g.cs
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Datensatz_ändern.g.cs
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access_MarkupCompile.cache
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access_MarkupCompile.lref
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.pdb
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\Excel goes Access.exe
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\Excel goes Access.deps.json
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\Excel goes Access.runtimeconfig.json
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\Excel goes Access.runtimeconfig.dev.json
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\Excel goes Access.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\Excel goes Access.pdb
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.Management.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.Reflection.Context.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\System.IO.Ports.Native.so
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\System.IO.Ports.Native.so
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Datensatz_hinzufügen.baml
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Datensatz_löschen.baml
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Datensatz_suchen.baml
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Datensatz_ändern.baml
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.g.resources
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.csproj.CoreCompileInputs.cache
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.AssemblyInfoInputs.cache
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.AssemblyInfo.cs
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.csproj.CopyComplete
+E:\Dokumente\HomeO\Excel_goes_Access\VS Project\Excel goes Access\Excel goes Access\obj\Debug\netcoreapp3.1\Excel goes Access.genruntimeconfig.cache
